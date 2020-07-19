@@ -18,5 +18,7 @@ directories!!!
 
 ## Wallpaper
 <p align="centre">
-   <img width="700" alt='Wallpaper" src="https://free4kwallpapers.com/uploads/originals/2020/05/10/trolley-stop-wallpaper.jpg">
+   <img width="600" 
+        alt="Wallpaper"
+        src="https://free4kwallpapers.com/uploads/originals/2020/05/10/trolley-stop-wallpaper.jpg">
 </p>
